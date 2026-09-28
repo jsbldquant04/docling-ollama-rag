@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+docling>=2.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+openai>=1.0
+python-dotenv>=1.0
