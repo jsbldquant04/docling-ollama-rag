@@ -1,5 +1,9 @@
 [server]
+<<<<<<< HEAD
 headless = true
+=======
+maxUploadSize = 50
+>>>>>>> 89ba3bd (add image)
 
 [browser]
 gatherUsageStats = false

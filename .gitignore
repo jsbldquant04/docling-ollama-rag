@@ -1,5 +1,27 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
 .env
 .DS_Store
+=======
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Models/caches that should not be committed
+.cache/
+
+# OS/editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+>>>>>>> 89ba3bd (add image)
